@@ -16,6 +16,9 @@ body{
   left: 5%;
   position: absolute;
   top: 10%;
+  @media screen and (max-width: 700px ){
+    left: 5px;
+  }
 }
 .score-text{
   font-size: 1.5rem;
@@ -53,6 +56,11 @@ body{
     padding: 5px 0;
     transition: .3s;
     width: 100%;
+    @media screen and (max-width: 700px ){
+      width: 60vw;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
     &:hover{
       background-color: #808080;
       cursor: pointer;
@@ -62,12 +70,18 @@ body{
   &-check-container{
     display: flex;
     gap: 20px;
+    @media screen and (max-width: 700px ){
+      width: 60vw;
+    }
   }
   &-input{
     border: 2px solid #808080;
     font-size: 2rem;
     text-align: center;
     width: 20%;
+    @media screen and (max-width: 700px ){
+      font-size: 1.6rem;
+    }
     &:hover{
       cursor: pointer;
     }
@@ -80,6 +94,9 @@ body{
     font-weight: 700;
     padding: 5px 20px;
     width: 80%;
+    @media screen and (max-width: 700px ){
+      font-size: 1.6rem;
+    }
     &:hover{
       background-color: #808080;
       cursor: pointer;
@@ -92,6 +109,9 @@ body{
     position: absolute;
     right: 5%;
     top: 10%;
+    @media screen and (max-width: 700px ){
+      right: 5px;
+    }
   }
   &-usedChart-text{
     font-size: 1.5rem;
@@ -113,6 +133,11 @@ body{
     height: 400px;
     margin-bottom: 30px;
     width: 400px;
+    @media screen and (max-width: 700px ){
+      width: 60vw;
+      height: 60vw;
+      margin-bottom: 20px;
+    }
     &-part{
       position: relative;
       &-vertical{
