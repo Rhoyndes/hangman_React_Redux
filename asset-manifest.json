@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20hangman_React_Redux/static/css/main.24b4f092.css",
-    "main.js": "/%20hangman_React_Redux/static/js/main.254fc4f2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/%20hangman_React_Redux/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/%20hangman_React_Redux/index.html",
-    "main.24b4f092.css.map": "/%20hangman_React_Redux/static/css/main.24b4f092.css.map",
-    "main.254fc4f2.js.map": "/%20hangman_React_Redux/static/js/main.254fc4f2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/%20hangman_React_Redux/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/hangman_React_Redux/static/css/main.24b4f092.css",
+    "main.js": "/hangman_React_Redux/static/js/main.efb993aa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hangman_React_Redux/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/hangman_React_Redux/index.html",
+    "main.24b4f092.css.map": "/hangman_React_Redux/static/css/main.24b4f092.css.map",
+    "main.efb993aa.js.map": "/hangman_React_Redux/static/js/main.efb993aa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hangman_React_Redux/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24b4f092.css",
-    "static/js/main.254fc4f2.js"
+    "static/js/main.efb993aa.js"
   ]
 }
